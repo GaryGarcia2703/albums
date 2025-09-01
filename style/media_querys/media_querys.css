@@ -1,15 +1,10 @@
-/* Moto G7 Plus (modo retrato) */
-@media (max-width: 360px) {
-  body {
-    background-color: lightcoral;
-    font-size: 14px;
-  }
-}
-
 /* Moto G7 Plus (modo paisagem) */
 @media (max-width: 640px) {
-  body {
-    background-color: lightseagreen;
-    font-size: 16px;
+  h1 {
+    font-size: 10px;
   }
+}
+.album-info h1 {
+    font-size: 2em;
+    margin: 0;
 }
