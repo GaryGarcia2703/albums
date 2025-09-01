@@ -1,10 +1,11 @@
 /* Moto G7 Plus (modo paisagem) */
 @media (max-width: 640px) {
-  h1 {
+    h1 {
     font-size: 10px;
-  }
-}
-.album-info h1 {
-    font-size: 2em;
-    margin: 0;
+    }
+
+    .album-info h1 {
+        font-size: 2em;
+        margin: 0;
+    }
 }
